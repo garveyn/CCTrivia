@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CCTrivia</string>
+    <string name="category0">Category #1</string>
+    <string name="category1">Category #2</string>
+    <string name="category2">Category #3</string>
+    <string name="category3">Category #4</string>
+
+    <string name="question_label">Question #%d</string>
+    <string name="sample_question">Where is Donny laacks now?</string>
+    <string name="selection_prompt_text">Select the correct response&#8230;</string>
+</resources>

@@ -12,16 +12,16 @@ class CategorySelectionActivity : AppCompatActivity() {
 
         // Setup category navigation
         category0.setOnClickListener {
-            categorySelection(1)
+            categorySelection(0)
         }
         category1.setOnClickListener {
-            categorySelection(2)
+            categorySelection(1)
         }
         category2.setOnClickListener {
-            categorySelection(3)
+            categorySelection(2)
         }
         category3.setOnClickListener {
-            categorySelection(4)
+            categorySelection(3)
         }
 
 

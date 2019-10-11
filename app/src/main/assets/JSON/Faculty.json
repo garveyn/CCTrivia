@@ -1,0 +1,32 @@
+[
+  {
+    "question":"Who is the best professor?",
+    "answer":["David Kopec","Answer out of order","Not this one","Uhhhh idk..."],
+    "correctAnswerIndex":0,
+    "type":0
+  },
+  {
+    "question":"Who is the Wei Kian Chen?",
+    "answer":["kopec","hall","wei","stevens"],
+    "correctAnswerIndex":2,
+    "type":1
+  },
+  {
+    "question":"Which Division does Rowshan Nemazee teach in?",
+    "answer":["ITS","CCM","EHS","CORE"],
+    "correctAnswerIndex":3,
+    "type":0
+  },
+  {
+    "question":"Which Division does Flavio Rizzo teach in?",
+    "answer":["ITS","CCM","EHS","CORE"],
+    "correctAnswerIndex":1,
+    "type":0
+  },
+  {
+    "question":"Which Division does Brian Hall teach in?",
+    "answer":["ITS","CCM","EHS","CORE"],
+    "correctAnswerIndex":0,
+    "type":0
+  }
+]

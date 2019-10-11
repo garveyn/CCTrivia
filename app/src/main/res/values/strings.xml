@@ -5,7 +5,22 @@
     <string name="category2">Category #3</string>
     <string name="category3">Category #4</string>
 
-    <string name="question_label">Question #%d</string>
+    <string name="question_label">Question #%1$d</string>
+    <string name="score_label">Current score is: %1$d</string>
     <string name="sample_question">Where is Donny laacks now?</string>
     <string name="selection_prompt_text">Select the correct response&#8230;</string>
+    <string name="hint">Get Hint!</string>
+
+    <string name="correct_response">Correct!</string>
+    <string name="incorrect_response">Incorrect!</string>
+
+    <string name="score_title">High Scores!</string>
+    <string name="score_listing">%1$d: %2$s - %3$d</string>
+    <string name="new_score">Your score is: %1$d</string>
+    <string name="name_prompt">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="submitted">Score Submitted!</string>
+
+    <string name="name_error">Please enter your name</string>
+
 </resources>

@@ -1,0 +1,36 @@
+[
+  {
+    "question":"Where is Don Laackman now?",
+    "answer":["Retired",
+      "Living out life in the depths of Champlain as Champ, the mythical lake monster",
+      "Working at UVM","Haunting the Library"],
+    "correctAnswerIndex":1,
+    "type":0
+  },
+  {
+    "question":"Which dorm is haunted?",
+    "answer":["jensen", "butler", "lakeview","hill"],
+    "correctAnswerIndex":0,
+    "type":1
+  },
+  {
+    "question":"How did Joyce and Freeman come to be connected?",
+    "answer":["Construction workers", "Cannibalism", "Wizards","Interdimensional pranks"],
+    "correctAnswerIndex":3,
+    "type":0
+  },
+  {
+    "question":"What does the 'T' stand for in Chauncy T. Beaver?",
+    "answer":["Thomas",
+      "The? No, surely someone would think of literally anything else cause that is a weak answer...",
+      "Thermometer?","Tracy"],
+    "correctAnswerIndex":0,
+    "type":0
+  },
+  {
+    "question":"What SHOULD the 'T' stand for in Chauncy T. Beaver?",
+    "answer":["Tea", "Temujin", "Theresa?","Tenzin"],
+    "correctAnswerIndex":0,
+    "type":0
+  }
+]

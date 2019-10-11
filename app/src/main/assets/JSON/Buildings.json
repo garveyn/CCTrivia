@@ -1,0 +1,32 @@
+[
+  {
+    "question":"Which of these first-year halls have AC?",
+    "answer":["Rowell Hall","Jensen Hall","Lyman Hall","McDonald Hall"],
+    "correctAnswerIndex":0,
+    "type":0
+  },
+  {
+    "question":"Which of the following is Pearl Hall?",
+    "answer":["rowell_hall","perry_hall","summit_hall","pearl_hall"],
+    "correctAnswerIndex":3,
+    "type":0
+  },
+  {
+    "question":"Which floor in CCM was built first?",
+    "answer":["First Floor","Second Floor","Third Floor","Fourth Floor"],
+    "correctAnswerIndex":2,
+    "type":0
+  },
+  {
+    "question":"Which one of these buildings is not connected to another building?",
+    "answer":["Joyce","IDX","CCM","Library"],
+    "correctAnswerIndex":1,
+    "type":0
+  },
+  {
+    "question":"How many buildings sit on Finney Quad?",
+    "answer":["6","7","8","9"],
+    "correctAnswerIndex":1,
+    "type":0
+  }
+]
